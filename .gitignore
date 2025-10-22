@@ -1,0 +1,28 @@
+# Client sensitive information
+client-confidential/
+*.private
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Large media files (use Git LFS if needed)
+*.psd
+*.ai
+*.sketch
+
+# Environment files
+.env
+.env.local
